@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+.icono {
+	width: 40px;
+	height: 40px;
+}
+
+.caja {
+	margin: 30px;
+	font-family: 'Lato', sans-serif;
+}
+
+.tabla {
+	border-top: 1px solid rgb(144, 143, 143);
+	margin-top: 30px;
+	border-collapse: collapse;
+}
+
+.fondo-purpura {
+	background-color: #cadaee; 
+}
+
+td {
+	height: 80%;
+	text-align: center;
+}
+
+.margen-listado {
+	margin: 100px;
+	font-size: 20px;
+}
+
+.boton-rojo {
+	background-color: #db3939;
+	color: white;
+    text-align: center;
+	width: 100px;
+    height: 30px;
+	padding-top: 15px;
+	padding-bottom: 12px;
+    margin-left: 190px;
+	border-radius: 18px 18px 18px 18px;
+	-moz-border-radius: 18px 18px 18px 18px;
+	-webkit-border-radius: 18px 18px 18px 18px;
+	border: 0px solid #000000;
+}
+
+.boton-verde{
+   
+    background-color: rgb(12, 148, 84);
+	color: white;
+    text-align: center;
+	width: 100px;
+    height: 30px;
+	padding-top: 15px;
+	padding-bottom: 12px;
+    margin-left: 70px;
+	border-radius: 18px 18px 18px 18px;
+	-moz-border-radius: 18px 18px 18px 18px;
+	-webkit-border-radius: 18px 18px 18px 18px;
+	border: 0px solid #000000;
+}
+
+.footer{
+    background-color: #db3939;
+	color: white;
+	height: 125px;
+}
+
+p{
+    font-weight: bolder;
+}
+
+table{
+    width: 100%;
+}
+
+.td-footer-1{
+	width: 90%;	
+	text-align: end;
+	padding-right: 20%;
+	padding-bottom: 20px;
+}
+
+.td-footer-2{
+	width: 10%;
+	padding-bottom: 20px;
+}
+
+
